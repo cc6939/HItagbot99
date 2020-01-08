@@ -16,7 +16,7 @@ import youtube_dl
 #==============================================================================#
 botStart = time.time()
 #===============================================================================#
-print ("\n\n『(9)โดเรมีบอท(9)』\n")\n")
+print ("\n\n『(9)โดเรมีบอท(9)』\n") 
 line = LINE('')
 line.log("Auth Token : " + str(line.authToken))
 lineMID = line.profile.mid
