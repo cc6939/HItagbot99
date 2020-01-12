@@ -658,7 +658,7 @@ def helpset():
 ┣━━━━━━━━━━━━━━━━━
 ╰━━{(9)โดเรมีบอท(9)  } """
     return helpSet
-    def helpsetting():
+def helpsetting():
     key = settings["s"]
     key = key.title()   
     helpSetting = """╭━━{ (9)โดเรมีบอท(9) }
